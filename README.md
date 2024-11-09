@@ -29,7 +29,7 @@
   <p>Systems and Computing Engineering major at Universidad de los Andes.</p>
 </div>
 
-## Tech
+## Things I Code With
 
 <table>
   <tr>
@@ -165,6 +165,6 @@
   </tr>
 </table>
 
-## Stats
+## Some Stats
 
 ![fedemelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedemelo&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=vue-dark&hide=contribs)
