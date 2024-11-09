@@ -167,4 +167,4 @@
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedemelo&layout=pie&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+![fedemelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedemelo&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=vue-dark&hide=contribs)
