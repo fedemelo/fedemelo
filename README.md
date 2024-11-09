@@ -40,37 +40,37 @@
       <img 
         src="https://skillicons.dev/icons?i=py"
         height="40" 
-        alt="python logo"
+        alt="Python logo"
       />
       <img 
         src="https://skillicons.dev/icons?i=ts"
         height="40"
-        alt="typescript logo"
+        alt="TypeScript logo"
       />
       <img 
         src="https://skillicons.dev/icons?i=java"
         height="40"
-        alt="java logo"
+        alt="Java logo"
       />
       <img 
         src="https://skillicons.dev/icons?i=elixir"
         height="40"
-        alt="elixir logo"
+        alt="Elixir logo"
       />
       <img 
         src="https://skillicons.dev/icons?i=latex"
         height="40"
-        alt="latex logo"
+        alt="LaTeX logo"
       />
       <img 
         src="https://skillicons.dev/icons?i=swift"
         height="40"
-        alt="swift logo"
+        alt="Swift logo"
       />
       <img 
         src="https://skillicons.dev/icons?i=regex"
         height="40"
-        alt="regex logo"
+        alt="RegEx logo"
       />
     </td>
   </tr>
@@ -82,27 +82,27 @@
       <img 
         src="https://skillicons.dev/icons?i=fastapi"
         height="40"
-        alt="fastapi logo"
+        alt="FastAPI logo"
       />
       <img 
         src="https://skillicons.dev/icons?i=react"
         height="40"
-        alt="react logo"
+        alt="React logo"
       />
       <img 
         src="https://skillicons.dev/icons?i=materialui"
         height="40"
-        alt="materialui logo"
+        alt="MaterialUI logo"
       />
       <img 
         src="https://skillicons.dev/icons?i=spring"
         height="40"
-        alt="spring logo"
+        alt="Spring logo"
       />
       <img 
         src="https://skillicons.dev/icons?i=nestjs"
         height="40"
-        alt="nestjs logo"
+        alt="NestJS logo"
       />
     </td>
   </tr>
@@ -114,52 +114,52 @@
       <img 
         src="https://skillicons.dev/icons?i=azure"
         height="40"
-        alt="azure logo"
+        alt="Azure logo"
       />
       <img 
         src="https://skillicons.dev/icons?i=aws"
         height="40"
-        alt="aws logo"
+        alt="AWS logo"
       />
       <img 
         src="https://skillicons.dev/icons?i=docker"
         height="40"
-        alt="docker logo"
+        alt="Docker logo"
       />
       <img 
         src="https://skillicons.dev/icons?i=firebase"
         height="40"
-        alt="firebase logo"
+        alt="Firebase logo"
       />
       <img 
         src="https://skillicons.dev/icons?i=postman"
         height="40"
-        alt="postman logo"
+        alt="Postman logo"
       />
       <img 
         src="https://skillicons.dev/icons?i=gcp"
         height="40"
-        alt="gcp logo"
+        alt="GCP logo"
       />
       <img 
         src="https://skillicons.dev/icons?i=jenkins"
         height="40"
-        alt="jenkins logo"
+        alt="Jenkins logo"
       />
       <img 
         src="https://skillicons.dev/icons?i=nginx"
         height="40"
-        alt="nginx logo"
+        alt="Nginx logo"
       />
       <img 
         src="https://skillicons.dev/icons?i=githubactions"
         height="40"
-        alt="githubactions logo"
+        alt="GitHub Actions logo"
       />
       <img 
         src="https://skillicons.dev/icons?i=gradle"
         height="40"
-        alt="gradle logo"
+        alt="Gradle logo"
       />
     </td>
   </tr>
