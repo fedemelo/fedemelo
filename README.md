@@ -26,7 +26,7 @@
       height="25" 
       alt="Gmail logo" />
   </a>
-  <p>Systems and Computing Engineering major at Universidad de los Andes.</p>
+  <p>Software Engineer on the parsing team at Canals AI.</p>
 </div>
 
 ## Things I Code With
@@ -85,16 +85,6 @@
         alt="FastAPI logo"
       />
       <img 
-        src="https://skillicons.dev/icons?i=react"
-        height="40"
-        alt="React logo"
-      />
-      <img 
-        src="https://skillicons.dev/icons?i=materialui"
-        height="40"
-        alt="MaterialUI logo"
-      />
-      <img 
         src="https://skillicons.dev/icons?i=spring"
         height="40"
         alt="Spring logo"
@@ -103,6 +93,21 @@
         src="https://skillicons.dev/icons?i=nestjs"
         height="40"
         alt="NestJS logo"
+      />
+      <img 
+        src="https://skillicons.dev/icons?i=next"
+        height="40"
+        alt="Next logo"
+      />
+      <img 
+        src="https://skillicons.dev/icons?i=react"
+        height="40"
+        alt="React logo"
+      />
+      <img 
+        src="https://skillicons.dev/icons?i=materialui"
+        height="40"
+        alt="MaterialUI logo"
       />
     </td>
   </tr>
