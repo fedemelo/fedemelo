@@ -26,7 +26,7 @@
       height="25" 
       alt="Gmail logo" />
   </a>
-  <p>Software Engineer on the parsing team at Canals AI.</p>
+  <p>Software Engineer on the parsing team at [Canals AI](https://github.com/CanalsAI).</p>
 </div>
 
 ## Things I Code With
