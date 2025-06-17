@@ -28,6 +28,3 @@
   </a>
   <p>Software Engineer on the Parsing team at <a href="https://github.com/CanalsAI">Canals AI</a>.</p>
 </div>
-
-
-![fedemelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedemelo&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=vue-dark&hide=contribs)
