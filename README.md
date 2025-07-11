@@ -26,6 +26,8 @@
       height="25" 
       alt="Gmail logo" />
   </a>
-  <p>Software Engineer on the Parsing team at <a href="https://github.com/CanalsAI">Canals AI</a>.</p>
-  <p>Summa Cum Laude in Systems and Computing Engineering from <a href="https://www.uniandes.edu.co/">Universidad de los Andes</a></p>
+  <br/><br/>
+  <p><b>Software Engineer</b> at <a href="https://www.canals.ai/">Canals AI</a>.</p>
+  <p><b>Lecturer</b> at <a href="https://www.uniandes.edu.co/">Uniandes</a></p>
+  <p><b>Summa Cum Laude</b> from <a href="https://www.uniandes.edu.co/">Uniandes</a></p>
 </div>
