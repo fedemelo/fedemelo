@@ -2,7 +2,6 @@
 
 <div align="center">
   <h1>Federico Melo Barrero</h1>
-  <br/> <br/>
   <p>Software Engineer at <a href="https://www.canals.ai/">Canals AI</a>, lecturer at <a href="https://www.uniandes.edu.co/">Uniandes</a>, and Summa Cum Laude graduate from <a href="https://www.uniandes.edu.co/">Uniandes</a></p>
   <br/>  <br/>
   <h3>
