@@ -2,12 +2,12 @@
 
 <div align="center">
   <h1>Federico Melo Barrero</h1>
-  <p>
+  <p>Software Engineer at <a href="https://www.canals.ai/">Canals AI</a>, lecturer at <a href="https://www.uniandes.edu.co/">Uniandes</a>, and Summa Cum Laude graduate from <a href="https://www.uniandes.edu.co/">Uniandes</a></p>
+  <h3>
     <a href="https://fedemelo.com" target="_blank">
       🌐 <strong>fedemelo.com</strong>
     </a>
-  </p>
-  <p>Software Engineer at <a href="https://www.canals.ai/">Canals AI</a>, lecturer at <a href="https://www.uniandes.edu.co/">Uniandes</a>, and Summa Cum Laude graduate from <a href="https://www.uniandes.edu.co/">Uniandes</a></p>
+  </h3>
   <a href="https://www.linkedin.com/in/federico-melo/" target="_blank">
     <img 
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
