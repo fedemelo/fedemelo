@@ -8,7 +8,6 @@
     <a href="https://fedemelo.com" target="_blank">🌐 <strong>fedemelo.com</strong></a>
   </h3>
 
-  <!-- Table forces side-by-side layout -->
   <table align="center">
     <tr>
       <td align="center">
